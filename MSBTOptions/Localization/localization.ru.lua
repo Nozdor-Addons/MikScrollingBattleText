@@ -60,6 +60,7 @@ L.MSG_INVALID_ITEM_NAME			    = "Неверное название предме�
 
 local obj = L.CLASS_NAMES
 obj["DEATHKNIGHT"]	= "Рыцарь смерти"
+obj["DEMONHUNTER"]	= "Охотник на демонов"
 obj["DRUID"]		= "Друид"
 obj["HUNTER"]		= "Охотник"
 obj["MAGE"]			= "Маг"

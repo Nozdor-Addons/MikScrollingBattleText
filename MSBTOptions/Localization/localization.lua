@@ -85,6 +85,7 @@ L.MSG_INVALID_ITEM_NAME				= "Invalid item name."
 
 local obj = L.CLASS_NAMES
 obj["DEATHKNIGHT"]	= "Death Knight"
+obj["DEMONHUNTER"]	= "Demon Hunter"
 obj["DRUID"]		= "Druid"
 obj["HUNTER"]		= "Hunter"
 obj["MAGE"]			= "Mage"
