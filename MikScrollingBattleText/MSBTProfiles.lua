@@ -1484,6 +1484,7 @@ local masterProfile = {
 
  -- Class color settings.
  DEATHKNIGHT	= CreateClassSettingsTable("DEATHKNIGHT"),
+ DEMONHUNTER	= CreateClassSettingsTable("DEMONHUNTER"),
  DRUID			= CreateClassSettingsTable("DRUID"),
  HUNTER			= CreateClassSettingsTable("HUNTER"),
  MAGE			= CreateClassSettingsTable("MAGE"),
